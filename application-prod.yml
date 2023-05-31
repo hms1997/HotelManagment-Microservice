@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Config-prod
+
 eureka:
   instance:
     prefer-id-address: true
